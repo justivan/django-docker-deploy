@@ -1,0 +1,8 @@
+whitenoise==6.6.0  # https://github.com/evansd/whitenoise
+gunicorn==21.2.0  # https://github.com/benoitc/gunicorn
+psycopg[c]==3.1.15  # https://github.com/psycopg/psycopg
+
+# Django
+# ------------------------------------------------------------------------------
+django==4.2.8  # pyup: < 5.0  # https://www.djangoproject.com/
+django-environ==0.11.2  # https://github.com/joke2k/django-environ
